@@ -12,6 +12,11 @@ body{
 	background-color: #C0D8C0;
 	margin: 0px;
 }
+table, th, td {
+  border:2px solid #ECB390;
+  background-color: #F5EEDC;
+  font-family: monospace;
+}
 div{
   padding:10%;
   padding-top: 2%;
