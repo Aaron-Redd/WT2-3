@@ -18,7 +18,6 @@ table, th, td {
   color: #F38BA0;
   padding: 15px;
 
-
 }
 
 div{
@@ -28,4 +27,46 @@ div{
 #table_body{
   margin: 50px;
 
+}
+/*.homepage{
+
+min-height: 1000px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}*/
+.navigation{
+
+background-color:#F38BA0;
+overflow: hidden;
+
+ }
+ .navigation a {
+ float: left;
+ color: #B5EAEA;
+ text-align: center;
+ padding: 30px 18px;
+ text-decoration: none;
+ font-size: 2em;
+ font-weight:700;
+}
+h1{
+  font-size: 3.5em;
+}
+h2, p{
+  font-family: Times new roman;
+  font-size: 2.5em;
+}
+#blogs_body{
+
+  background: #F38BA0
+}
+
+#content{
+  margin-bottom: 25px;
+  background-color: white;
+  border-radius: 25px;
+  -webkit-box-shadow: 11px 8px 55px -9px rgba(0,0,0,0.75);
+-moz-box-shadow: 11px 8px 55px -9px rgba(0,0,0,0.75);
+box-shadow: 11px 8px 55px -9px rgba(0,0,0,0.75);
 }
